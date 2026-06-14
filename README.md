@@ -1,8 +1,8 @@
-# 🧠 BTS-Agent：脑肿瘤诊断病例管理系统
+# 🧠 弥影智析：面向缺失模态的脑肿瘤MRI智能诊断分析管理系统
 
-**BTS-Agent: Brain Tumor Diagnosis Case Management System**
+**Miying Intelligence: A Smart Diagnostic and Analysis Management System for Brain Tumor MRI Based on Missing Modalities**
 
-> 一个集医学影像诊断、多代理智能分析、患者病例管理于一体的脑肿瘤诊疗支持系统
+> 一个集医学影像诊断、RAMIS-Net分割算法、多智能体协同决策、患者病例管理于一体的脑肿瘤诊疗支持系统
 
 ---
 
